@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Velkommen til min blog
 
-I'm glad you are here. I plan to talk about ...
+Jeg er glad for at se dig her
